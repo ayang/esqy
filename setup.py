@@ -36,7 +36,7 @@ classifiers = [
 ]
 
 setup(name='esqy',
-      version='0.0.1',
+      version='0.0.2',
       description='elasticsearch dsl query file runner',
       long_description="\n{0}\n\n{1}".format(README, CHANGES),
       author='Bruce Yang',
